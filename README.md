@@ -7,7 +7,7 @@
 - [ ] Choose a project topic
 - [ ] Find 5-7 research papers on the topic.
 - [ ] Complete the Introduction and the Related Work sections of the project report
-  - [Project Report Template (zip)](Proposal1/docs/project_report_template) 
+  - [Project Report Template (zip)](Proposal1/docs/project_report_template.zip) 
 - [ ] Complete the D1 peer review survey. (Available on learn)
 
 
