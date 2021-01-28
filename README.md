@@ -2,7 +2,7 @@
 
 ## Proposal 1 Checklist (Due Feb 2nd at 11:59pm)
 - [ ] Complete the group contract
-  - [Group Contract Template (zip)](Proposal1/docs/project_contract_template)
+  - [Group Contract Template (zip)](Proposal1/docs/project_group_contract.zip)
   - [Group Contract Template (pdf)](Proposal1/docs/f20_group_contract.pdf)
 - [ ] Choose a project topic
 - [ ] Find 5-7 research papers on the topic.
