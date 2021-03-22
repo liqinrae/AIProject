@@ -14,3 +14,7 @@
 
 ## Resources
 
+## Set Up
+pip3 install dlib
+pip3 install opencv-python
+
